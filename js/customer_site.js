@@ -283,9 +283,9 @@ const CUSTOMER_SITES = {
         api: "https://www.kuaiyunzy.com/api.php/provide/vod/",
         名称: "快云点播"
     },
-    "七七": {
-        api: "https://www.qiqidys.com/api.php/provide/vod",
-        名称: "七七资源"
+    qiqi: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        名称: '七七资源',
     }
 };
 // 调用全局方法合并
