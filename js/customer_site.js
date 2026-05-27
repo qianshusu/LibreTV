@@ -283,8 +283,8 @@ const CUSTOMER_SITES = {
         api: 'https://www.kuaiyunzy.com/api.php/provide/vod/',
         name: '快云点播',
     },
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
+    "qiqi": {
+        api: "https://www.qiqidys.com/api.php/provide/vod",
         name: '七七资源',
     }
 };
