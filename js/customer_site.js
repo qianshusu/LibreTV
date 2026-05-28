@@ -1,4 +1,4 @@
-const customerSite = {
+const CUSTOMER_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
